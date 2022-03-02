@@ -8,3 +8,4 @@
 | [2022-02-12-T21-03-46](2022-02-12-T21-03-46) | Weekly benchmark | main | workflow_dispatch | [280ba088c](https://github.com/shadow/shadow/commit/280ba088c3ef4eddbbfa81c80beb5fb9385a1bcf) |
 | [2022-02-15-T03-17-14](2022-02-15-T03-17-14) | Nightly benchmark | main | schedule | [848e67c1e](https://github.com/shadow/shadow/commit/848e67c1e0c0a6f7460444ec9be9394b1869df94) |
 | [2022-02-28-T00-24-24](2022-02-28-T00-24-24) | Nightly benchmark | main | workflow_dispatch | [d277ca1f6](https://github.com/shadow/shadow/commit/d277ca1f68e45158258bd7f218dfe1835d8f4322) |
+| [2022-03-01-T22-02-19](2022-03-01-T22-02-19) | PR #1940 | pull/1940/head | workflow_dispatch | [0b8ec5e81](https://github.com/shadow/shadow/commit/0b8ec5e81caebe7299a9426d04aec5226dddb4bb) |

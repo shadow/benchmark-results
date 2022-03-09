@@ -15,3 +15,4 @@
 | [2022-03-05-T14-47-11](2022-03-05-T14-47-11) | Weekly benchmark | main | schedule | [099542a1a](https://github.com/shadow/shadow/commit/099542a1a7b14a34e63635703438dfd96ef2db46) |
 | [2022-03-06-T17-54-38](2022-03-06-T17-54-38) | Nightly benchmark | main | workflow_dispatch | [3f2caede7](https://github.com/shadow/shadow/commit/3f2caede745d7e022e6802c7230fae535393ab06) |
 | [2022-03-08-T03-17-46](2022-03-08-T03-17-46) | Nightly benchmark | main | schedule | [dde54a1ad](https://github.com/shadow/shadow/commit/dde54a1ad8214b772449ce6584155a2cc4acba55) |
+| [2022-03-09-T03-18-03](2022-03-09-T03-18-03) | Nightly benchmark | main | schedule | [1ad2a8e5f](https://github.com/shadow/shadow/commit/1ad2a8e5fff56fc44b3721d2ba9a4747b6b50c4e) |

@@ -31,3 +31,4 @@
 | [2022-03-29-T03-31-21](2022-03-29-T03-31-21) | Nightly benchmark | main | schedule | [28dc4150a](https://github.com/shadow/shadow/commit/28dc4150a70f594a6c1fb18ed7d081738da2ad97) |
 | [2022-03-29-T15-09-54](2022-03-29-T15-09-54) | busy loop escape 3x | pull/1991/head | workflow_dispatch | [22623a051](https://github.com/shadow/shadow/commit/22623a0518c93ad6c69171764879950dd3b4220b) |
 | [2022-03-30-T14-38-28](2022-03-30-T14-38-28) | Nightly benchmark | main | schedule | [30ee33669](https://github.com/shadow/shadow/commit/30ee3366901293d1a724dd7a0558eaf7e0a1e468) |
+| [2022-04-02-T03-24-15](2022-04-02-T03-24-15) | Weekly benchmark | main | schedule | [66d0d84fc](https://github.com/shadow/shadow/commit/66d0d84fcbc796354c059ab60be15b10d9b91536) |

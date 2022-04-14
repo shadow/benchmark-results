@@ -37,3 +37,4 @@
 | [2022-04-12-T03-34-04](2022-04-12-T03-34-04) | Nightly benchmark | main | schedule | [4b8d6391b](https://github.com/shadow/shadow/commit/4b8d6391bdea97a6dfec5cd48e59e2b4a9bb4e02) |
 | [2022-04-12-T18-47-32](2022-04-12-T18-47-32) | enable shadow time jumps | pull/2004/head | workflow_dispatch | [6e96b6973](https://github.com/shadow/shadow/commit/6e96b6973a80b0161ce313624ee1e8b54fe2520e) |
 | [2022-04-13-T03-36-39](2022-04-13-T03-36-39) | Nightly benchmark | main | schedule | [8b996d6c4](https://github.com/shadow/shadow/commit/8b996d6c4356f278b7af08f6a2184ad9296466b0) |
+| [2022-04-14-T03-38-31](2022-04-14-T03-38-31) | Nightly benchmark | main | schedule | [8bc7036bd](https://github.com/shadow/shadow/commit/8bc7036bd1222a1b7795374021995b8677c716a9) |

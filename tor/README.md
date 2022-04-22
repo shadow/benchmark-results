@@ -44,3 +44,4 @@
 | [2022-04-20-T04-01-41](2022-04-20-T04-01-41) | Nightly benchmark | main | schedule | [a720ee099](https://github.com/shadow/shadow/commit/a720ee099f689e6d245069ea3c551e65477e053d) |
 | [2022-04-21-T00-07-18](2022-04-21-T00-07-18) | PR #1940 | pull/1940/head | workflow_dispatch | [672b0f6f0](https://github.com/shadow/shadow/commit/672b0f6f05df7b3bc8c06d68b7eb3bb27a49697c) |
 | [2022-04-21-T07-35-08](2022-04-21-T07-35-08) | Nightly benchmark | main | schedule | [69edc98b2](https://github.com/shadow/shadow/commit/69edc98b2671378ac8a8ac66421c5c09d4ff85a3) |
+| [2022-04-21-T22-38-39](2022-04-21-T22-38-39) | syscall-latency-modeling | pull/2077/head | workflow_dispatch | [4e6ea04b6](https://github.com/shadow/shadow/commit/4e6ea04b6296a346a3eb27102b62cd27ac99896e) |

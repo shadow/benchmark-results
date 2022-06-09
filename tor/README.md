@@ -86,3 +86,4 @@
 | [2022-06-05-T17-22-38](2022-06-05-T17-22-38) | After container update | b07525bbbd22f0494e579287f2a8cd229480873f | workflow_dispatch | [b07525bbb](https://github.com/shadow/shadow/commit/b07525bbbd22f0494e579287f2a8cd229480873f) |
 | [2022-06-06-T23-09-40](2022-06-06-T23-09-40) | v2.1.0 | v2.1.0 | workflow_dispatch | [4226cf2b8](https://github.com/shadow/shadow/commit/4226cf2b8309218376f5db43b9ac739a5592e767) |
 | [2022-06-08-T04-46-34](2022-06-08-T04-46-34) | Nightly benchmark | main | workflow_dispatch | [05caf4e22](https://github.com/shadow/shadow/commit/05caf4e22eb7ed63ce12e52cc19f88e9730b3916) |
+| [2022-06-09-T03-46-20](2022-06-09-T03-46-20) | Nightly benchmark | main | schedule | [05caf4e22](https://github.com/shadow/shadow/commit/05caf4e22eb7ed63ce12e52cc19f88e9730b3916) |

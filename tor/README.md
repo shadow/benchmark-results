@@ -95,3 +95,4 @@
 | [2022-06-16-T03-46-38](2022-06-16-T03-46-38) | Nightly benchmark | main | schedule | [b47975062](https://github.com/shadow/shadow/commit/b4797506290aaab7497a9ba5d49dffaf18a0bf21) |
 | [2022-06-17-T01-19-56](2022-06-17-T01-19-56) | PR #2226 | pull/2226/head | workflow_dispatch | [26c94d635](https://github.com/shadow/shadow/commit/26c94d6354fc03a23096cb20391256ce87401131) |
 | [2022-06-17-T08-46-26](2022-06-17-T08-46-26) | Nightly benchmark | main | schedule | [b47975062](https://github.com/shadow/shadow/commit/b4797506290aaab7497a9ba5d49dffaf18a0bf21) |
+| [2022-06-18-T03-42-50](2022-06-18-T03-42-50) | Weekly benchmark | main | schedule | [b47975062](https://github.com/shadow/shadow/commit/b4797506290aaab7497a9ba5d49dffaf18a0bf21) |

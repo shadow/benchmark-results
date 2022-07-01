@@ -105,3 +105,4 @@
 | [2022-06-29-T03-59-38](2022-06-29-T03-59-38) | Nightly benchmark | main | schedule | [3f42510c9](https://github.com/shadow/shadow/commit/3f42510c98b52923d4ae689696c6f493fcc4d6f4) |
 | [2022-06-30-T05-29-48](2022-06-30-T05-29-48) | Nightly benchmark | main | schedule | [3f42510c9](https://github.com/shadow/shadow/commit/3f42510c98b52923d4ae689696c6f493fcc4d6f4) |
 | [2022-07-01-T04-05-53](2022-07-01-T04-05-53) | Nightly benchmark | main | schedule | [3f42510c9](https://github.com/shadow/shadow/commit/3f42510c98b52923d4ae689696c6f493fcc4d6f4) |
+| [2022-07-01-T11-48-58](2022-07-01-T11-48-58) | PR #2249 | pull/2249/head | workflow_dispatch | [c4c8e2ad1](https://github.com/shadow/shadow/commit/c4c8e2ad1d924a682d90dba92d50e71cf3eb0eaa) |

@@ -168,3 +168,4 @@
 | [2022-09-30-T04-50-24](2022-09-30-T04-50-24) | Nightly benchmark | main | schedule | [72361d968](https://github.com/shadow/shadow/commit/72361d968ad8ad9f7cdcf02e9f740c15fcafce78) |
 | [2022-10-01-T04-48-06](2022-10-01-T04-48-06) | Weekly benchmark | main | schedule | [f82477dac](https://github.com/shadow/shadow/commit/f82477dac170a2365e2aba0b27e88354127d2f6d) |
 | [2022-10-03-T16-17-59](2022-10-03-T16-17-59) | global release flags | pull/2443/head | workflow_dispatch | [8e94956a7](https://github.com/shadow/shadow/commit/8e94956a7d04b2fc1da552ea2ccc66e9f3c1beaa) |
+| [2022-10-04-T04-03-35](2022-10-04-T04-03-35) | Nightly benchmark | main | schedule | [b87e61901](https://github.com/shadow/shadow/commit/b87e619012395d26fb644ec04a9b31213985d93d) |

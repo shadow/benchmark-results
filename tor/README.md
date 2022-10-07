@@ -172,3 +172,4 @@
 | [2022-10-05-T03-56-30](2022-10-05-T03-56-30) | Nightly benchmark | main | schedule | [f047aee42](https://github.com/shadow/shadow/commit/f047aee42ffed2223f401093f71458772650e3e7) |
 | [2022-10-05-T22-03-20](2022-10-05-T22-03-20) | PR #2448 - tpc | pull/2448/head | workflow_dispatch | [d4521a46b](https://github.com/shadow/shadow/commit/d4521a46b7404698cef1b7e63416ddd9ae73ce21) |
 | [2022-10-06-T05-53-28](2022-10-06-T05-53-28) | Nightly benchmark | main | schedule | [1530a79e3](https://github.com/shadow/shadow/commit/1530a79e3525f84d5c3687155911d3e9db9ba4f4) |
+| [2022-10-07-T04-03-11](2022-10-07-T04-03-11) | Nightly benchmark | main | schedule | [5178ea7f6](https://github.com/shadow/shadow/commit/5178ea7f64d5751c8ff3cf679d538d330f64c8c0) |

@@ -176,3 +176,4 @@
 | [2022-10-08-T03-56-05](2022-10-08-T03-56-05) | Weekly benchmark | main | schedule | [439e46720](https://github.com/shadow/shadow/commit/439e467202e91a13713dfd831ecb328951be1841) |
 | [2022-10-11-T04-29-51](2022-10-11-T04-29-51) | Nightly benchmark | main | schedule | [439e46720](https://github.com/shadow/shadow/commit/439e467202e91a13713dfd831ecb328951be1841) |
 | [2022-10-12-T04-19-07](2022-10-12-T04-19-07) | Nightly benchmark | main | schedule | [074c08b55](https://github.com/shadow/shadow/commit/074c08b556e7f0f8179c6f705a9a4efda15c05b1) |
+| [2022-10-12-T21-10-42](2022-10-12-T21-10-42) | rust shmem | pull/2462/head | workflow_dispatch | [af5d10ba4](https://github.com/shadow/shadow/commit/af5d10ba4927a94a0ef9512966c7a60603ae8656) |

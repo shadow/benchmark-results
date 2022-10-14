@@ -179,3 +179,4 @@
 | [2022-10-12-T21-10-42](2022-10-12-T21-10-42) | rust shmem | pull/2462/head | workflow_dispatch | [af5d10ba4](https://github.com/shadow/shadow/commit/af5d10ba4927a94a0ef9512966c7a60603ae8656) |
 | [2022-10-13-T04-53-29](2022-10-13-T04-53-29) | Nightly benchmark | main | schedule | [7363d0a63](https://github.com/shadow/shadow/commit/7363d0a63eb7deee8bf7431f0ac090061f2c48d6) |
 | [2022-10-13-T23-07-58](2022-10-13-T23-07-58) | rust shmem w mutex opt | pull/2470/head | workflow_dispatch | [51c3bd6c5](https://github.com/shadow/shadow/commit/51c3bd6c52ffc2f83231eb383d5a76e55c12d51c) |
+| [2022-10-14-T06-39-34](2022-10-14-T06-39-34) | Nightly benchmark | main | schedule | [41bc667eb](https://github.com/shadow/shadow/commit/41bc667eb4a1b5642345a0b1335f0a6c3097df9e) |

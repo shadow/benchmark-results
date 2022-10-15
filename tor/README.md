@@ -181,3 +181,4 @@
 | [2022-10-13-T23-07-58](2022-10-13-T23-07-58) | rust shmem w mutex opt | pull/2470/head | workflow_dispatch | [51c3bd6c5](https://github.com/shadow/shadow/commit/51c3bd6c52ffc2f83231eb383d5a76e55c12d51c) |
 | [2022-10-14-T06-39-34](2022-10-14-T06-39-34) | Nightly benchmark | main | schedule | [41bc667eb](https://github.com/shadow/shadow/commit/41bc667eb4a1b5642345a0b1335f0a6c3097df9e) |
 | [2022-10-14-T14-15-02](2022-10-14-T14-15-02) | scmutex opt v2 | pull/2470/head | workflow_dispatch | [9bdab1337](https://github.com/shadow/shadow/commit/9bdab133716e66063ee04b6dedb5c3387b1f1cd1) |
+| [2022-10-15-T01-27-14](2022-10-15-T01-27-14) | PR #2473 | pull/2473/head | workflow_dispatch | [7ab8b8fd6](https://github.com/shadow/shadow/commit/7ab8b8fd6f43d4e7e3cd6c563a115d029bb0f9fa) |

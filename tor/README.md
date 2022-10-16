@@ -183,3 +183,4 @@
 | [2022-10-14-T14-15-02](2022-10-14-T14-15-02) | scmutex opt v2 | pull/2470/head | workflow_dispatch | [9bdab1337](https://github.com/shadow/shadow/commit/9bdab133716e66063ee04b6dedb5c3387b1f1cd1) |
 | [2022-10-15-T01-27-14](2022-10-15-T01-27-14) | PR #2473 | pull/2473/head | workflow_dispatch | [7ab8b8fd6](https://github.com/shadow/shadow/commit/7ab8b8fd6f43d4e7e3cd6c563a115d029bb0f9fa) |
 | [2022-10-15-T09-02-47](2022-10-15-T09-02-47) | Weekly benchmark | main | schedule | [f593050c8](https://github.com/shadow/shadow/commit/f593050c805f67ed7917d26d950d6d773c6f2563) |
+| [2022-10-16-T07-03-53](2022-10-16-T07-03-53) | PR #2467 | pull/2467/head | workflow_dispatch | [c03c0ee13](https://github.com/shadow/shadow/commit/c03c0ee13eb3a725958d9be3adfcbecf79af7d34) |

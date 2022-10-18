@@ -185,3 +185,4 @@
 | [2022-10-15-T09-02-47](2022-10-15-T09-02-47) | Weekly benchmark | main | schedule | [f593050c8](https://github.com/shadow/shadow/commit/f593050c805f67ed7917d26d950d6d773c6f2563) |
 | [2022-10-16-T07-03-53](2022-10-16-T07-03-53) | PR #2467 | pull/2467/head | workflow_dispatch | [c03c0ee13](https://github.com/shadow/shadow/commit/c03c0ee13eb3a725958d9be3adfcbecf79af7d34) |
 | [2022-10-16-T16-55-54](2022-10-16-T16-55-54) | PR #2467 - tpc | pull/2467/head | workflow_dispatch | [c03c0ee13](https://github.com/shadow/shadow/commit/c03c0ee13eb3a725958d9be3adfcbecf79af7d34) |
+| [2022-10-17-T22-47-57](2022-10-17-T22-47-57) | PR #2473 | pull/2473/head | workflow_dispatch | [b45c91299](https://github.com/shadow/shadow/commit/b45c912996ab33bfa9c8d596e0d80e91647f510b) |

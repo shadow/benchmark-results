@@ -201,3 +201,4 @@
 | [2022-10-31-T15-28-48](2022-10-31-T15-28-48) | rust host | pull/2500/head | workflow_dispatch | [4e0e6c416](https://github.com/shadow/shadow/commit/4e0e6c416f6f96cbe9c54f3c589c793659dd6096) |
 | [2022-11-01-T04-24-24](2022-11-01-T04-24-24) | Nightly benchmark | main | schedule | [578d9722b](https://github.com/shadow/shadow/commit/578d9722b136f67ef5053e48ad14925365ad2041) |
 | [2022-11-01-T16-50-29](2022-11-01-T16-50-29) | boxed host | pull/2500/head | workflow_dispatch | [96b9b332b](https://github.com/shadow/shadow/commit/96b9b332b0085bca0e7076b93fcee19a02c84f75) |
+| [2022-11-02-T04-12-12](2022-11-02-T04-12-12) | Nightly benchmark | main | schedule | [3426db618](https://github.com/shadow/shadow/commit/3426db618815de9e4a831c4afbc4ff905b6d756d) |

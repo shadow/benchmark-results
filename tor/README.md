@@ -202,3 +202,4 @@
 | [2022-11-01-T04-24-24](2022-11-01-T04-24-24) | Nightly benchmark | main | schedule | [578d9722b](https://github.com/shadow/shadow/commit/578d9722b136f67ef5053e48ad14925365ad2041) |
 | [2022-11-01-T16-50-29](2022-11-01-T16-50-29) | boxed host | pull/2500/head | workflow_dispatch | [96b9b332b](https://github.com/shadow/shadow/commit/96b9b332b0085bca0e7076b93fcee19a02c84f75) |
 | [2022-11-02-T04-12-12](2022-11-02-T04-12-12) | Nightly benchmark | main | schedule | [3426db618](https://github.com/shadow/shadow/commit/3426db618815de9e4a831c4afbc4ff905b6d756d) |
+| [2022-11-03-T03-50-55](2022-11-03-T03-50-55) | Nightly benchmark | main | schedule | [547eae970](https://github.com/shadow/shadow/commit/547eae970f056987decaa4e1a5da358078af358a) |

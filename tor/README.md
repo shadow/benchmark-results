@@ -214,3 +214,4 @@
 | [2022-11-11-T03-50-05](2022-11-11-T03-50-05) | Nightly benchmark | main | schedule | [4e4629191](https://github.com/shadow/shadow/commit/4e462919127148c0a38dfe8b7901f44e8e6763a7) |
 | [2022-11-12-T03-50-23](2022-11-12-T03-50-23) | Weekly benchmark | main | schedule | [0006dbf62](https://github.com/shadow/shadow/commit/0006dbf62edf207905ba151c9b7ec81045fc220d) |
 | [2022-11-14-T17-46-27](2022-11-14-T17-46-27) | PR #2522 (w heartbeat) | pull/2522/head | workflow_dispatch | [cbbc0f29f](https://github.com/shadow/shadow/commit/cbbc0f29fb95098ef01ec5e72bd44eb74a32e766) |
+| [2022-11-15-T03-40-37](2022-11-15-T03-40-37) | Nightly benchmark | main | schedule | [0006dbf62](https://github.com/shadow/shadow/commit/0006dbf62edf207905ba151c9b7ec81045fc220d) |

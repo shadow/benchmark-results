@@ -222,3 +222,4 @@
 | [2022-11-21-T17-07-28](2022-11-21-T17-07-28) | mutex-update | pull/2558/head | workflow_dispatch | [42a7c75de](https://github.com/shadow/shadow/commit/42a7c75deb5909a85bd34f6f76e6fb73f00e7f26) |
 | [2022-11-22-T05-44-07](2022-11-22-T05-44-07) | Nightly benchmark | main | schedule | [2b44dda25](https://github.com/shadow/shadow/commit/2b44dda25411910d70bdbc47d511399073aecde4) |
 | [2022-11-23-T03-27-00](2022-11-23-T03-27-00) | Nightly benchmark | main | schedule | [76a457306](https://github.com/shadow/shadow/commit/76a457306da2322fcdb26c104e04de79e11c2936) |
+| [2022-11-26-T05-59-41](2022-11-26-T05-59-41) | Weekly benchmark | main | schedule | [58a184917](https://github.com/shadow/shadow/commit/58a1849179132072386a1ddaf98ca86962b081d8) |

@@ -18,3 +18,4 @@
 | [2022-12-10-T03-04-25](2022-12-10-T03-04-25) | Weekly benchmark | main | schedule | [661e7802e](https://github.com/shadow/shadow/commit/661e7802e0d44069560cd0f35d97dc32353d6acd) |
 | [2022-12-12-T12-31-16](2022-12-12-T12-31-16) | no-process-count | pull/2601/head | workflow_dispatch | [1fba9d185](https://github.com/shadow/shadow/commit/1fba9d18582ac24b87a56ef671ddc185f07b4d8f) |
 | [2022-12-12-T15-08-32](2022-12-12-T15-08-32) | Re-run of baseline | 21138058fe3c3d19afc78376500299761df302fd | workflow_dispatch | [21138058f](https://github.com/shadow/shadow/commit/21138058fe3c3d19afc78376500299761df302fd) |
+| [2022-12-13-T03-18-32](2022-12-13-T03-18-32) | Nightly benchmark | main | schedule | [270148ce4](https://github.com/shadow/shadow/commit/270148ce474eafd35c1a0a19fb62d271c6119900) |

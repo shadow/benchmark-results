@@ -244,3 +244,4 @@
 | [2022-12-22-T10-07-18](2022-12-22-T10-07-18) | Nightly benchmark | main | schedule | [92c743958](https://github.com/shadow/shadow/commit/92c743958ac83476585d401f23476a04c0a09a09) |
 | [2022-12-23-T00-36-14](2022-12-23-T00-36-14) | Rust Process | pull/2631/head | workflow_dispatch | [3175dda56](https://github.com/shadow/shadow/commit/3175dda56a97027f24e8b96555927e9594b4921d) |
 | [2022-12-23-T11-09-01](2022-12-23-T11-09-01) | Nightly benchmark | main | schedule | [1b8970277](https://github.com/shadow/shadow/commit/1b89702771408cdb97a801d95f2cc35a25c8f8a3) |
+| [2022-12-24-T05-42-55](2022-12-24-T05-42-55) | Weekly benchmark | main | schedule | [1b8970277](https://github.com/shadow/shadow/commit/1b89702771408cdb97a801d95f2cc35a25c8f8a3) |

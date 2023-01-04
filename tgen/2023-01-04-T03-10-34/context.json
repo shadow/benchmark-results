@@ -1,0 +1,22 @@
+{
+  "trigger": "schedule",
+  "workflow-name": "Nightly TGen Benchmark",
+  "shadow-ref": "main",
+  "shadow-label": "Nightly benchmark",
+  "comment": "Nightly benchmark of the main branch",
+  "compare-to": "2022-11-24-T00-54-29, weekly, nightly",
+  "repeat": 1,
+  "dry-run": false,
+  "runtime-args": "--parallelism 24",
+  "sim-to-run": "tgennet-1000",
+  "results-dir": "tgen",
+  "update-symlink": "nightly",
+  "container": "debian:bullseye-20220527-slim",
+  "tgen-ref": "c979b74b031fe92ecea70600c8296c00576fcda7",
+  "shadow-sha": "fc18b7f1d5edcd905db1c5d6d6006d091f832d5e",
+  "benchmark-sha": "9aea9e28f776f51fb7a478c322efb42711e43ea8",
+  "rust-version": "",
+  "sim-id": "2023-01-04-T03-10-34",
+  "timestamp": "1672801834",
+  "compare-to-resolved": "2022-11-24-T00-54-29, 2022-12-31-T03-04-00, 2023-01-03-T03-10-27"
+}

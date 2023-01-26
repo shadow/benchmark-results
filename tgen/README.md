@@ -59,3 +59,4 @@
 | [2023-01-24-T00-39-39](2023-01-24-T00-39-39) | PR 2632 | pull/2632/head | workflow_dispatch | [fab91c16b](https://github.com/shadow/shadow/commit/fab91c16b035c5f5020e338835f227b36d0ff04e) |
 | [2023-01-24-T03-20-22](2023-01-24-T03-20-22) | Nightly benchmark | main | schedule | [34fe9d831](https://github.com/shadow/shadow/commit/34fe9d83186fc084257cd3a50e681db754b28fd3) |
 | [2023-01-25-T03-10-22](2023-01-25-T03-10-22) | Nightly benchmark | main | schedule | [34fe9d831](https://github.com/shadow/shadow/commit/34fe9d83186fc084257cd3a50e681db754b28fd3) |
+| [2023-01-26-T03-11-23](2023-01-26-T03-11-23) | Nightly benchmark | main | schedule | [c8d6c6850](https://github.com/shadow/shadow/commit/c8d6c685023348e6d0432bc7209a544f42cf9a92) |

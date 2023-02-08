@@ -75,3 +75,4 @@
 | [2023-02-05-T06-44-17](2023-02-05-T06-44-17) | PR #2715 (RootedRefCell) | pull/2715/head | workflow_dispatch | [7aa8f2634](https://github.com/shadow/shadow/commit/7aa8f2634c6438e9d8f89577cb366b59f5edd8f7) |
 | [2023-02-06-T21-30-10](2023-02-06-T21-30-10) | PR #2715 | pull/2715/head | workflow_dispatch | [387045353](https://github.com/shadow/shadow/commit/387045353a9b4ef8ca18b2647bf2f349d465d004) |
 | [2023-02-07-T08-51-50](2023-02-07-T08-51-50) | Nightly benchmark | main | schedule | [ed9d8c493](https://github.com/shadow/shadow/commit/ed9d8c493d7272870771f2b770a8b56f81c7c9bc) |
+| [2023-02-08-T13-17-30](2023-02-08-T13-17-30) | Nightly benchmark | main | schedule | [658a922de](https://github.com/shadow/shadow/commit/658a922def804259d026da95ee7b1c2efd7cda4a) |

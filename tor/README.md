@@ -286,3 +286,4 @@
 | [2023-02-07-T20-06-50](2023-02-07-T20-06-50) | PR #2715 (with Vec) | pull/2715/head | workflow_dispatch | [602023ae9](https://github.com/shadow/shadow/commit/602023ae9fa424d8d53c41ec39922321c9ae62b4) |
 | [2023-02-08-T04-41-19](2023-02-08-T04-41-19) | pr 2731 sch pointers | pull/2731/head | workflow_dispatch | [60625e827](https://github.com/shadow/shadow/commit/60625e827149701c898099d71486ecc27096bb03) |
 | [2023-02-08-T16-01-39](2023-02-08-T16-01-39) | Nightly benchmark | main | schedule | [658a922de](https://github.com/shadow/shadow/commit/658a922def804259d026da95ee7b1c2efd7cda4a) |
+| [2023-02-09-T06-08-48](2023-02-09-T06-08-48) | Nightly benchmark | main | schedule | [793409bc8](https://github.com/shadow/shadow/commit/793409bc84c03d474e2929b845950101367e2138) |

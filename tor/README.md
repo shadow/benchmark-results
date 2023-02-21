@@ -293,3 +293,4 @@
 | [2023-02-14-T17-52-31](2023-02-14-T17-52-31) | inline rooted fns | pull/2750/head | workflow_dispatch | [a754e3f20](https://github.com/shadow/shadow/commit/a754e3f209bf8c356ac0e336626954f5b8dccaca) |
 | [2023-02-17-T19-58-02](2023-02-17-T19-58-02) | PR #2522 | pull/2522/head | workflow_dispatch | [5ab5d554f](https://github.com/shadow/shadow/commit/5ab5d554ff0ae1b594a0eb9b1277cbb7d864a9f2) |
 | [2023-02-19-T22-41-20](2023-02-19-T22-41-20) | Weekly benchmark | main | schedule | [25081fdc9](https://github.com/shadow/shadow/commit/25081fdc9c041e6a9b0417c110354bc759bf52a3) |
+| [2023-02-21-T03-13-52](2023-02-21-T03-13-52) | PR #2522 | pull/2522/head | workflow_dispatch | [5ab5d554f](https://github.com/shadow/shadow/commit/5ab5d554ff0ae1b594a0eb9b1277cbb7d864a9f2) |

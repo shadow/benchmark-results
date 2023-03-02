@@ -302,3 +302,4 @@
 | [2023-02-25-T05-56-59](2023-02-25-T05-56-59) | Weekly benchmark | main | schedule | [1c2d43655](https://github.com/shadow/shadow/commit/1c2d43655a3531934abe9a2f8947c674c038ca95) |
 | [2023-02-28-T06-00-29](2023-02-28-T06-00-29) | Nightly benchmark | main | schedule | [1c2d43655](https://github.com/shadow/shadow/commit/1c2d43655a3531934abe9a2f8947c674c038ca95) |
 | [2023-03-01-T06-15-38](2023-03-01-T06-15-38) | Nightly benchmark | main | schedule | [815dd6af4](https://github.com/shadow/shadow/commit/815dd6af4a6e4b8256a9f626e607ed8f09af9f57) |
+| [2023-03-01-T18-40-39](2023-03-01-T18-40-39) | rust ipc | pull/2775/head | workflow_dispatch | [6d4029a52](https://github.com/shadow/shadow/commit/6d4029a52a8728d033578757384e500eeb9164f9) |

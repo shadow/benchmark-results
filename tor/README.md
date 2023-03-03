@@ -305,3 +305,4 @@
 | [2023-03-01-T18-40-39](2023-03-01-T18-40-39) | rust ipc | pull/2775/head | workflow_dispatch | [6d4029a52](https://github.com/shadow/shadow/commit/6d4029a52a8728d033578757384e500eeb9164f9) |
 | [2023-03-02-T06-03-19](2023-03-02-T06-03-19) | Nightly benchmark | main | schedule | [08375bf2c](https://github.com/shadow/shadow/commit/08375bf2c8c19408527dc641815208dee5c884ca) |
 | [2023-03-03-T07-10-36](2023-03-03-T07-10-36) | Nightly benchmark | main | schedule | [08375bf2c](https://github.com/shadow/shadow/commit/08375bf2c8c19408527dc641815208dee5c884ca) |
+| [2023-03-03-T14-26-23](2023-03-03-T14-26-23) | pr 2777 unsafe scmutex | pull/2777/head | workflow_dispatch | [70ed32ff3](https://github.com/shadow/shadow/commit/70ed32ff3a9f12289e538a314182c34520f365ef) |

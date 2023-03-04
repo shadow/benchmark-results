@@ -306,3 +306,4 @@
 | [2023-03-02-T06-03-19](2023-03-02-T06-03-19) | Nightly benchmark | main | schedule | [08375bf2c](https://github.com/shadow/shadow/commit/08375bf2c8c19408527dc641815208dee5c884ca) |
 | [2023-03-03-T07-10-36](2023-03-03-T07-10-36) | Nightly benchmark | main | schedule | [08375bf2c](https://github.com/shadow/shadow/commit/08375bf2c8c19408527dc641815208dee5c884ca) |
 | [2023-03-03-T14-26-23](2023-03-03-T14-26-23) | pr 2777 unsafe scmutex | pull/2777/head | workflow_dispatch | [70ed32ff3](https://github.com/shadow/shadow/commit/70ed32ff3a9f12289e538a314182c34520f365ef) |
+| [2023-03-03-T21-58-40](2023-03-03-T21-58-40) | scmutex-separate-atomic | pull/2778/head | workflow_dispatch | [b138594df](https://github.com/shadow/shadow/commit/b138594df8c7d46ab2983ad655b91602f21e8081) |

@@ -319,3 +319,4 @@
 | [2023-03-15-T06-01-42](2023-03-15-T06-01-42) | Nightly benchmark | main | schedule | [f397d414a](https://github.com/shadow/shadow/commit/f397d414a6880e8d95d2f44cc6eb9b56fc0ee24a) |
 | [2023-03-16-T06-02-19](2023-03-16-T06-02-19) | Nightly benchmark | main | schedule | [e3093c4b9](https://github.com/shadow/shadow/commit/e3093c4b9c2335288185c92a27fa0277baf49121) |
 | [2023-03-16-T13-26-54](2023-03-16-T13-26-54) | scchannel aligned atomic | pull/2787/head | workflow_dispatch | [9be5a619f](https://github.com/shadow/shadow/commit/9be5a619fa9eb1b57901a07e931a3f1ea5d9477f) |
+| [2023-03-16-T23-51-42](2023-03-16-T23-51-42) | IPC rust w align | pull/2775/head | workflow_dispatch | [be0d5ed4c](https://github.com/shadow/shadow/commit/be0d5ed4c531e3fbf239272d13d91433f4f1a3fb) |

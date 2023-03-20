@@ -322,3 +322,4 @@
 | [2023-03-16-T23-51-42](2023-03-16-T23-51-42) | IPC rust w align | pull/2775/head | workflow_dispatch | [be0d5ed4c](https://github.com/shadow/shadow/commit/be0d5ed4c531e3fbf239272d13d91433f4f1a3fb) |
 | [2023-03-17-T10-09-58](2023-03-17-T10-09-58) | Nightly benchmark | main | schedule | [e3093c4b9](https://github.com/shadow/shadow/commit/e3093c4b9c2335288185c92a27fa0277baf49121) |
 | [2023-03-18-T06-00-09](2023-03-18-T06-00-09) | Weekly benchmark | main | schedule | [a5340f6de](https://github.com/shadow/shadow/commit/a5340f6de4baccaeb052c1c37bb18ca45ce9f0ef) |
+| [2023-03-19-T23-29-18](2023-03-19-T23-29-18) | PR #2794 | pull/2794/head | workflow_dispatch | [a786605a5](https://github.com/shadow/shadow/commit/a786605a595685cbc26da9ca58d1a2e345576caf) |

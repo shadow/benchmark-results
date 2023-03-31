@@ -333,3 +333,4 @@
 | [2023-03-29-T16-47-34](2023-03-29-T16-47-34) | Nightly benchmark | main | schedule | [b43386c74](https://github.com/shadow/shadow/commit/b43386c743923a3fa365c31f449f8ffccb0db226) |
 | [2023-03-30-T06-10-43](2023-03-30-T06-10-43) | Nightly benchmark | main | schedule | [9ec4693f3](https://github.com/shadow/shadow/commit/9ec4693f345a5e0150dfda5026afb8fb47c846f2) |
 | [2023-03-30-T22-17-26](2023-03-30-T22-17-26) | PR #2812 ManagedThread | pull/2812/head | workflow_dispatch | [af8c5aa2b](https://github.com/shadow/shadow/commit/af8c5aa2b5e13afca5cc0b8bdb56b5f19dd46caa) |
+| [2023-03-31-T08-48-29](2023-03-31-T08-48-29) | Nightly benchmark | main | schedule | [54e49b0ec](https://github.com/shadow/shadow/commit/54e49b0ec545007b408f84088d65d676e03561b0) |

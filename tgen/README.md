@@ -117,3 +117,4 @@
 | [2023-04-12-T15-15-46](2023-04-12-T15-15-46) | commit 4053e9 | 4053e9f1f4737a4831274ce33bd7cd8ff3514fb3 | workflow_dispatch | [4053e9f1f](https://github.com/shadow/shadow/commit/4053e9f1f4737a4831274ce33bd7cd8ff3514fb3) |
 | [2023-04-12-T16-35-06](2023-04-12-T16-35-06) | main (after sched fix) | main | workflow_dispatch | [5e93e7885](https://github.com/shadow/shadow/commit/5e93e78850e5da2151ebad6225a0ca0328d2e6f3) |
 | [2023-04-13-T03-09-34](2023-04-13-T03-09-34) | Nightly benchmark | main | schedule | [5e93e7885](https://github.com/shadow/shadow/commit/5e93e78850e5da2151ebad6225a0ca0328d2e6f3) |
+| [2023-04-13-T14-50-09](2023-04-13-T14-50-09) | PR #2867 | pull/2867/head | workflow_dispatch | [d6daee020](https://github.com/shadow/shadow/commit/d6daee020a0ef8eb59d4086e06dff05de768ce75) |

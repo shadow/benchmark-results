@@ -118,3 +118,4 @@
 | [2023-04-12-T16-35-06](2023-04-12-T16-35-06) | main (after sched fix) | main | workflow_dispatch | [5e93e7885](https://github.com/shadow/shadow/commit/5e93e78850e5da2151ebad6225a0ca0328d2e6f3) |
 | [2023-04-13-T03-09-34](2023-04-13-T03-09-34) | Nightly benchmark | main | schedule | [5e93e7885](https://github.com/shadow/shadow/commit/5e93e78850e5da2151ebad6225a0ca0328d2e6f3) |
 | [2023-04-13-T14-50-09](2023-04-13-T14-50-09) | PR #2867 | pull/2867/head | workflow_dispatch | [d6daee020](https://github.com/shadow/shadow/commit/d6daee020a0ef8eb59d4086e06dff05de768ce75) |
+| [2023-04-13-T21-16-06](2023-04-13-T21-16-06) | PR #2871 | pull/2871/head | workflow_dispatch | [dd651d82c](https://github.com/shadow/shadow/commit/dd651d82caaa3de43e5af5db16b18b1a6684d60b) |

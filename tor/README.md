@@ -360,3 +360,4 @@
 | [2023-04-30-T07-54-08](2023-04-30-T07-54-08) | spinning=false; pinning=false | 76d497f3f68a911c0322bb8c06e8c45782cc7007 | workflow_dispatch | [76d497f3f](https://github.com/shadow/shadow/commit/76d497f3f68a911c0322bb8c06e8c45782cc7007) |
 | [2023-04-30-T19-38-11](2023-04-30-T19-38-11) | spinning=false; pinning=true | 76d497f3f68a911c0322bb8c06e8c45782cc7007 | workflow_dispatch | [76d497f3f](https://github.com/shadow/shadow/commit/76d497f3f68a911c0322bb8c06e8c45782cc7007) |
 | [2023-05-02-T02-15-03](2023-05-02-T02-15-03) | w-expected-final-state | pull/2886/head | workflow_dispatch | [af2817128](https://github.com/shadow/shadow/commit/af28171283614fbb36cdbbcfb343ef3224fde611) |
+| [2023-05-03-T06-04-35](2023-05-03-T06-04-35) | Nightly benchmark | main | schedule | [a422da50e](https://github.com/shadow/shadow/commit/a422da50ea7e6ee8438486b534c251ae9c1e9a0c) |

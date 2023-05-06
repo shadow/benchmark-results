@@ -1,0 +1,23 @@
+{
+  "trigger": "schedule",
+  "workflow-name": "Weekly TGen Benchmark",
+  "shadow-ref": "main",
+  "shadow-label": "Weekly benchmark",
+  "comment": "Weekly benchmark of the main branch",
+  "runner-label": "rhea",
+  "compare-to": "2022-11-24-T00-54-29, weekly, nightly",
+  "repeat": 1,
+  "dry-run": false,
+  "runtime-args": "--parallelism 24",
+  "sim-to-run": "tgennet-1000",
+  "results-dir": "tgen",
+  "update-symlink": "weekly",
+  "container": "debian:bullseye-20220527-slim",
+  "tgen-ref": "3d7788bad362b4487d1145da93ab2fdb73c9b639",
+  "shadow-sha": "6cf1b376f7da9a4c6d4257810f164ab03c9980aa",
+  "benchmark-sha": "da1ac114582b059d0400adf50b5f267722cda3bb",
+  "rust-version": "",
+  "sim-id": "2023-05-06-T03-03-34",
+  "timestamp": "1683342214",
+  "compare-to-resolved": "2022-11-24-T00-54-29, 2023-04-29-T04-06-14, 2023-05-05-T03-09-45"
+}

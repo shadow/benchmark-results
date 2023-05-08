@@ -370,3 +370,4 @@
 | [2023-05-07-T03-28-42](2023-05-07-T03-28-42) | spinning=false; pinning=false | 6cf1b376f7da9a4c6d4257810f164ab03c9980aa | workflow_dispatch | [6cf1b37](https://github.com/shadow/shadow/commit/6cf1b376f7da9a4c6d4257810f164ab03c9980aa) |
 | [2023-05-07-T15-55-29](2023-05-07-T15-55-29) | spinning=false; pinning=true | 6cf1b376f7da9a4c6d4257810f164ab03c9980aa | workflow_dispatch | [6cf1b37](https://github.com/shadow/shadow/commit/6cf1b376f7da9a4c6d4257810f164ab03c9980aa) |
 | [2023-05-07-T19-52-20](2023-05-07-T19-52-20) | spinning=false; pinning=true | 6cf1b376f7da9a4c6d4257810f164ab03c9980aa | workflow_dispatch | [6cf1b37](https://github.com/shadow/shadow/commit/6cf1b376f7da9a4c6d4257810f164ab03c9980aa) |
+| [2023-05-08-T20-52-06](2023-05-08-T20-52-06) | spinning=false; pinning=true | 6cf1b376f7da9a4c6d4257810f164ab03c9980aa | workflow_dispatch | [6cf1b37](https://github.com/shadow/shadow/commit/6cf1b376f7da9a4c6d4257810f164ab03c9980aa) |

@@ -372,3 +372,4 @@
 | [2023-05-07-T19-52-20](2023-05-07-T19-52-20) | spinning=false; pinning=true | 6cf1b376f7da9a4c6d4257810f164ab03c9980aa | workflow_dispatch | [6cf1b37](https://github.com/shadow/shadow/commit/6cf1b376f7da9a4c6d4257810f164ab03c9980aa) |
 | [2023-05-08-T20-52-06](2023-05-08-T20-52-06) | spinning=false; pinning=true | 6cf1b376f7da9a4c6d4257810f164ab03c9980aa | workflow_dispatch | [6cf1b37](https://github.com/shadow/shadow/commit/6cf1b376f7da9a4c6d4257810f164ab03c9980aa) |
 | [2023-05-09-T04-09-28](2023-05-09-T04-09-28) | Nightly benchmark | main | schedule | [719d715](https://github.com/shadow/shadow/commit/719d71501f2c791e8f13e1c54c0337473d980da5) |
+| [2023-05-09-T18-43-48](2023-05-09-T18-43-48) | no preload crypto | main | workflow_dispatch | [cbbaaa9](https://github.com/shadow/shadow/commit/cbbaaa94e535edd4c95bba0b6f42441871a55a75) |

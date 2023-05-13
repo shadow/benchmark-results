@@ -378,3 +378,4 @@
 | [2023-05-10-T21-11-10](2023-05-10-T21-11-10) | test context table | main | workflow_dispatch | [f375ae7](https://github.com/shadow/shadow/commit/f375ae78d9ed912c488a1555cbcf84d11cedada7) |
 | [2023-05-11-T04-09-15](2023-05-11-T04-09-15) | Nightly benchmark | main | schedule | [a1d9a9f](https://github.com/shadow/shadow/commit/a1d9a9f51f0be5737c75a3d21780d5ff32e5a7cb) |
 | [2023-05-12-T04-09-26](2023-05-12-T04-09-26) | Nightly benchmark | main | schedule | [a1d9a9f](https://github.com/shadow/shadow/commit/a1d9a9f51f0be5737c75a3d21780d5ff32e5a7cb) |
+| [2023-05-13-T04-20-04](2023-05-13-T04-20-04) | Weekly benchmark | main | schedule | [5380a99](https://github.com/shadow/shadow/commit/5380a99b09cd25c5f93cac183c7f65bd706acbb7) |

@@ -382,3 +382,4 @@
 | [2023-05-13-T10-54-26](2023-05-13-T10-54-26) | v3.0.0-pre | v3.0.0-pre | workflow_dispatch | [6cf1b37](https://github.com/shadow/shadow/commit/6cf1b376f7da9a4c6d4257810f164ab03c9980aa) |
 | [2023-05-16-T04-10-01](2023-05-16-T04-10-01) | Nightly benchmark | main | schedule | [1951963](https://github.com/shadow/shadow/commit/19519634c37dfa3236ed55852c7160161e24dece) |
 | [2023-05-17-T04-09-29](2023-05-17-T04-09-29) | Nightly benchmark | main | schedule | [d158579](https://github.com/shadow/shadow/commit/d1585799499c3e031785581748a9bde6b09262ef) |
+| [2023-05-18-T04-09-21](2023-05-18-T04-09-21) | Nightly benchmark | main | schedule | [9410e33](https://github.com/shadow/shadow/commit/9410e3393685fa89188f94aa44db0ff74bc6e633) |

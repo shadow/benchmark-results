@@ -400,3 +400,4 @@
 | [2023-05-31-T04-09-08](2023-05-31-T04-09-08) | Nightly benchmark | main | schedule | [acfecfc](https://github.com/shadow/shadow/commit/acfecfcf4d65469a613468d237e2590acd0d7a81) |
 | [2023-06-01-T04-10-41](2023-06-01-T04-10-41) | Nightly benchmark | main | schedule | [4976adc](https://github.com/shadow/shadow/commit/4976adcefff114c5db45fc9612b4f7d5e54dc460) |
 | [2023-06-02-T04-09-20](2023-06-02-T04-09-20) | Nightly benchmark | main | schedule | [e952ccb](https://github.com/shadow/shadow/commit/e952ccbf5985517fa4094f9a4f73db697c375ed9) |
+| [2023-06-02-T13-10-24](2023-06-02-T13-10-24) | 4976adc | 4976adcefff114c5db45fc9612b4f7d5e54dc460 | workflow_dispatch | [4976adc](https://github.com/shadow/shadow/commit/4976adcefff114c5db45fc9612b4f7d5e54dc460) |

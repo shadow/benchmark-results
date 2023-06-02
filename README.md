@@ -1,4 +1,4 @@
 # Shadow Benchmark Results
 
-- [TGen Benchmark](tgen)
-- [Tor Benchmark](tor)
+- [TGen Benchmark](tgen/README.md)
+- [Tor Benchmark](tor/README.md)

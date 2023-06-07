@@ -165,3 +165,4 @@
 | [2023-06-03-T03-02-13](2023-06-03-T03-02-13) | Weekly benchmark | main | schedule | [8a8b9a9ce](https://github.com/shadow/shadow/commit/8a8b9a9ce6f2f0f3bb59e83eef84c079bb654998) |
 | [2023-06-06-T03-15-16](2023-06-06-T03-15-16) | Nightly benchmark | main | schedule | [4f0e6c650](https://github.com/shadow/shadow/commit/4f0e6c650d4e247d2b711c72c30a1619a9dd8653) |
 | [2023-06-06-T14-44-03](2023-06-06-T14-44-03) | PR #2999 | pull/2999/head | workflow_dispatch | [c782a4377](https://github.com/shadow/shadow/commit/c782a4377f6592a6fd5cfed1854c6661f18b6018) |
+| [2023-06-07-T03-14-12](2023-06-07-T03-14-12) | Nightly benchmark | main | schedule | [dd4c19924](https://github.com/shadow/shadow/commit/dd4c19924ccf6451ef1394e6d70d98cd05147150) |

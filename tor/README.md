@@ -410,3 +410,4 @@
 | [2023-06-06-T15-07-30](2023-06-06-T15-07-30) | PR #2999 | pull/2999/head | workflow_dispatch | [c782a43](https://github.com/shadow/shadow/commit/c782a4377f6592a6fd5cfed1854c6661f18b6018) |
 | [2023-06-07-T04-09-33](2023-06-07-T04-09-33) | Nightly benchmark | main | schedule | [dd4c199](https://github.com/shadow/shadow/commit/dd4c19924ccf6451ef1394e6d70d98cd05147150) |
 | [2023-06-08-T04-09-56](2023-06-08-T04-09-56) | Nightly benchmark | main | schedule | [fc480a8](https://github.com/shadow/shadow/commit/fc480a8416dd035b4a39ef1f8768790ec812d57d) |
+| [2023-06-08-T15-43-59](2023-06-08-T15-43-59) | vasi-sync rustix | pull/3013/head | workflow_dispatch | [abb2cd1](https://github.com/shadow/shadow/commit/abb2cd1b4b1428e60a1cf7643d4bf09260e52fb8) |

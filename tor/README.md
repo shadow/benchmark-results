@@ -413,3 +413,4 @@
 | [2023-06-08-T15-43-59](2023-06-08-T15-43-59) | vasi-sync rustix | pull/3013/head | workflow_dispatch | [abb2cd1](https://github.com/shadow/shadow/commit/abb2cd1b4b1428e60a1cf7643d4bf09260e52fb8) |
 | [2023-06-08-T23-44-27](2023-06-08-T23-44-27) | vasi-sync rustix v2 | pull/3013/head | workflow_dispatch | [abb2cd1](https://github.com/shadow/shadow/commit/abb2cd1b4b1428e60a1cf7643d4bf09260e52fb8) |
 | [2023-06-09-T06-27-13](2023-06-09-T06-27-13) | Nightly benchmark | main | schedule | [9986f0f](https://github.com/shadow/shadow/commit/9986f0fd27e87b25d6a322d3fdb81d27538dbcc5) |
+| [2023-06-09-T16-10-12](2023-06-09-T16-10-12) | #3014 Drop some syscall wrappers | pull/3014/head | workflow_dispatch | [8882ff8](https://github.com/shadow/shadow/commit/8882ff84ffcfb7afdd56a4f9ba43951baecda28f) |

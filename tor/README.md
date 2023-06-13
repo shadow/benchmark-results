@@ -416,3 +416,4 @@
 | [2023-06-09-T16-10-12](2023-06-09-T16-10-12) | #3014 Drop some syscall wrappers | pull/3014/head | workflow_dispatch | [8882ff8](https://github.com/shadow/shadow/commit/8882ff84ffcfb7afdd56a4f9ba43951baecda28f) |
 | [2023-06-09-T22-58-10](2023-06-09-T22-58-10) | #3014 Drop some syscall wrappers v2 | pull/3014/head | workflow_dispatch | [6856db3](https://github.com/shadow/shadow/commit/6856db3b5f74d9222c03338c4e6bf8d3e2715ac5) |
 | [2023-06-10-T04-19-44](2023-06-10-T04-19-44) | Weekly benchmark | main | schedule | [6380b62](https://github.com/shadow/shadow/commit/6380b62d705d14f51d08a95060be6f442c52c6c9) |
+| [2023-06-13-T04-09-35](2023-06-13-T04-09-35) | Nightly benchmark | main | schedule | [b453ba5](https://github.com/shadow/shadow/commit/b453ba5e0f0b1da1306d838f91db8b8eb7302acb) |

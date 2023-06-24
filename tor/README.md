@@ -426,3 +426,4 @@
 | [2023-06-22-T04-09-23](2023-06-22-T04-09-23) | Nightly benchmark | main | schedule | [50d03eb](https://github.com/shadow/shadow/commit/50d03ebe0d3fadd85d0c938dcc7a06e5e1feb586) |
 | [2023-06-23-T04-11-08](2023-06-23-T04-11-08) | Nightly benchmark | main | schedule | [a148ac8](https://github.com/shadow/shadow/commit/a148ac8cee09f448959a413b05ca3d767641aa22) |
 | [2023-06-24-T03-34-34](2023-06-24-T03-34-34) | rust shim tls | pull/3055/head | workflow_dispatch | [7c71692](https://github.com/shadow/shadow/commit/7c71692c6986e3a4e0ee386af1a8a9b89cc7e2bc) |
+| [2023-06-24-T05-55-28](2023-06-24-T05-55-28) | Weekly benchmark | main | schedule | [a148ac8](https://github.com/shadow/shadow/commit/a148ac8cee09f448959a413b05ca3d767641aa22) |

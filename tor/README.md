@@ -435,3 +435,4 @@
 | [2023-06-29-T23-59-06](2023-06-29-T23-59-06) | PR #3055 TLS | pull/3055/head | workflow_dispatch | [293e6aa](https://github.com/shadow/shadow/commit/293e6aa42e3539c193b5bcf312d967a9e4d0e303) |
 | [2023-06-30-T07-13-24](2023-06-30-T07-13-24) | Nightly benchmark | main | schedule | [4198d2d](https://github.com/shadow/shadow/commit/4198d2d8747954ae6a94792af2366bb78608fed2) |
 | [2023-07-01-T04-22-34](2023-07-01-T04-22-34) | Weekly benchmark | main | schedule | [9b1b668](https://github.com/shadow/shadow/commit/9b1b668ed6487e421945b377f40ae5d5788e75ec) |
+| [2023-07-04-T04-11-24](2023-07-04-T04-11-24) | Nightly benchmark | main | schedule | [9838dfa](https://github.com/shadow/shadow/commit/9838dfa31c1e3e878596ec45d615c77677d56c28) |

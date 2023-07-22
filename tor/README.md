@@ -451,3 +451,4 @@
 | [2023-07-19-T16-01-27](2023-07-19-T16-01-27) | PR 3077 clone | pull/3077/head | workflow_dispatch | [f98044c](https://github.com/shadow/shadow/commit/f98044cb6868b54db868dbb2b86d02dca4289fce) |
 | [2023-07-20-T04-09-39](2023-07-20-T04-09-39) | Nightly benchmark | main | schedule | [6854763](https://github.com/shadow/shadow/commit/685476305084759a5c8d573744e988d51bf807e5) |
 | [2023-07-21-T04-09-46](2023-07-21-T04-09-46) | Nightly benchmark | main | schedule | [087ceb3](https://github.com/shadow/shadow/commit/087ceb32b9843117bd64c67b7c1b4833d5e783e2) |
+| [2023-07-22-T04-19-34](2023-07-22-T04-19-34) | Weekly benchmark | main | schedule | [087ceb3](https://github.com/shadow/shadow/commit/087ceb32b9843117bd64c67b7c1b4833d5e783e2) |

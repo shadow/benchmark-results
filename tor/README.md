@@ -472,3 +472,4 @@
 | [2023-08-18-T04-09-30](2023-08-18-T04-09-30) | Nightly benchmark | main | schedule | [66b0712](https://github.com/shadow/shadow/commit/66b071227c068845bdbd4dc45b24bbdd5aa1e3d0) |
 | [2023-08-19-T04-19-10](2023-08-19-T04-19-10) | Weekly benchmark | main | schedule | [ad59841](https://github.com/shadow/shadow/commit/ad598419e64e1129a86f00af5dac38e4272a336b) |
 | [2023-08-22-T04-09-13](2023-08-22-T04-09-13) | Nightly benchmark | main | schedule | [5a44799](https://github.com/shadow/shadow/commit/5a447999774682c0bb20fcf9d5a8e1815d24f050) |
+| [2023-08-23-T04-09-05](2023-08-23-T04-09-05) | Nightly benchmark | main | schedule | [2f6a6b4](https://github.com/shadow/shadow/commit/2f6a6b497fb996d3a40cadccd5d04759b0ea3cfd) |

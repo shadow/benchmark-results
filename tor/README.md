@@ -502,3 +502,4 @@
 | [2023-09-26-T20-37-14](2023-09-26-T20-37-14) | no-mm | 39b307384369fd7611d2d73b89b8cc2c1e3e80a9 | workflow_dispatch | [39b3073](https://github.com/shadow/shadow/commit/39b307384369fd7611d2d73b89b8cc2c1e3e80a9) |
 | [2023-09-27-T04-09-53](2023-09-27-T04-09-53) | Nightly benchmark | main | schedule | [bc106aa](https://github.com/shadow/shadow/commit/bc106aaa53fb07116efec8a31bc5eed1d4d28649) |
 | [2023-09-28-T04-09-36](2023-09-28-T04-09-36) | Nightly benchmark | main | schedule | [1ad6c06](https://github.com/shadow/shadow/commit/1ad6c0622e71c4e34270b004178758708e57ce5e) |
+| [2023-09-29-T04-10-00](2023-09-29-T04-10-00) | Nightly benchmark | main | schedule | [1c5b7c6](https://github.com/shadow/shadow/commit/1c5b7c606eb347cf7d6b368c861387a3fb2fbe20) |

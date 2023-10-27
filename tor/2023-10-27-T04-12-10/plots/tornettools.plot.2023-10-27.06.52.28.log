@@ -1,0 +1,533 @@
+2023-10-27 06:52:28 1698389548.447337 [tornettools] [INFO] Logging system initialized! Logging events to stdout and to '/tmp/sim-results/plots/tornettools.plot.2023-10-27.06.52.28.log'
+2023-10-27 06:52:28 1698389548.447523 [tornettools] [INFO] Seeded standard and numpy PRNGs with seed=1869076761
+2023-10-27 06:52:28 1698389548.447612 [tornettools] [INFO] The argument namespace is: Namespace(do_version=False, quiet=0, seed=1869076761, command='plot', tornet_collection_path=['/tmp/sim-results', '/__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57', '/__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27', '/__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26'], tor_metrics_path=None, prefix='/tmp/sim-results/plots', labels=['2023-10-27-T04-12-10 (Nightly benchmark)', '2023-10-26-T04-10-57 (Nightly benchmark)', '2023-10-21-T04-19-27 (Weekly benchmark)', '2023-05-13-T10-54-26 (v3.0.0-pre)'], colors=None, plot_all=False, plot_pngs=True, func=<function plot at 0x153c2d22a040>, formatter_class=<class '__main__.CustomHelpFormatter'>)
+2023-10-27 06:52:28 1698389548.452291 [tornettools] [INFO] The platform is: Linux-5.10.0-22-amd64-x86_64-with-glibc2.31
+2023-10-27 06:52:28 1698389548.452493 [tornettools] [INFO] System info: uname_result(system='Linux', node='075a5af5d03b', release='5.10.0-22-amd64', version='#1 SMP Debian 5.10.178-3 (2023-04-22)', machine='x86_64')
+2023-10-27 06:52:28 1698389548.521312 [tornettools] [INFO] Generating new fontManager, this may take some time...
+2023-10-27 06:52:29 1698389549.045165 [tornettools] [INFO] Plotting simulation results now
+2023-10-27 06:52:29 1698389549.045815 [tornettools] [INFO] Plotting tornet comparisons
+2023-10-27 06:52:29 1698389549.046242 [tornettools] [INFO] Loading tornet resource usage data
+2023-10-27 06:52:29 1698389549.046335 [tornettools] [INFO] Searching for files containing resource_usage.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:29 1698389549.052763 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.898868 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:29 1698389549.900949 [tornettools] [INFO] Searching for files containing resource_usage.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:29 1698389549.901574 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.901775 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:29 1698389549.903509 [tornettools] [INFO] Searching for files containing resource_usage.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:29 1698389549.904031 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.904460 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.905016 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.905293 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:29 1698389549.909947 [tornettools] [INFO] Searching for files containing resource_usage.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:29 1698389549.910560 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.910886 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.911228 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.911789 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.912206 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.912557 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.912878 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.913199 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.913413 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.913622 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.913832 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.914047 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.914263 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.914480 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.914698 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.914913 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.915141 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.915378 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.915603 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.915829 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/resource_usage.json
+2023-10-27 06:52:29 1698389549.915973 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:31 1698389551.114781 [tornettools] [INFO] Loading Tor metrics data
+2023-10-27 06:52:31 1698389551.114944 [tornettools] [INFO] Loading tornet relay goodput data
+2023-10-27 06:52:31 1698389551.115015 [tornettools] [INFO] Searching for files containing relay_goodput.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:31 1698389551.116409 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.879695 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:31 1698389551.880745 [tornettools] [INFO] Searching for files containing relay_goodput.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:31 1698389551.881347 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.881533 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:31 1698389551.882268 [tornettools] [INFO] Searching for files containing relay_goodput.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:31 1698389551.882660 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.882958 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.883396 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.883677 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:31 1698389551.885575 [tornettools] [INFO] Searching for files containing relay_goodput.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:31 1698389551.886025 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.886324 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.886609 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.887043 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.887481 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.887873 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.888251 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.888637 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.888911 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.889185 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.889457 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.889685 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.889911 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.890134 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.890360 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.890584 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.890809 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.891036 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.891277 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.891639 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/relay_goodput.json
+2023-10-27 06:52:31 1698389551.891889 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:31 1698389551.901643 [tornettools] [INFO] Searching for files containing simulation_info.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:31 1698389551.902525 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.674212 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:32 1698389552.674785 [tornettools] [INFO] Searching for files containing simulation_info.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:32 1698389552.675368 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.675560 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:32 1698389552.675850 [tornettools] [INFO] Searching for files containing simulation_info.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:32 1698389552.676212 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.676508 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.676930 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.677090 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:32 1698389552.677512 [tornettools] [INFO] Searching for files containing simulation_info.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:32 1698389552.677918 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.678208 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.678479 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.678854 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.679121 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.679482 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.679854 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.680106 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.680354 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.680599 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.680848 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.681097 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.681357 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.681604 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.681852 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.682098 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.682348 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.682598 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.682847 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.683109 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/simulation_info.json
+2023-10-27 06:52:32 1698389552.683369 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:32 1698389552.684848 [tornettools] [INFO] Found simulated network scale 0.15
+2023-10-27 06:52:32 1698389552.685040 [tornettools] [INFO] Plotting relay goodput
+2023-10-27 06:52:33 1698389553.229711 [tornettools] [INFO] Loading exit tornet circuit build time data
+2023-10-27 06:52:33 1698389553.230244 [tornettools] [INFO] Searching for files matching perfclient_circuit_build_time(\.exit)?\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:33 1698389553.231172 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.971781 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:33 1698389553.973793 [tornettools] [INFO] Searching for files matching perfclient_circuit_build_time(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:33 1698389553.974350 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.974530 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:33 1698389553.976269 [tornettools] [INFO] Searching for files matching perfclient_circuit_build_time(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:33 1698389553.976724 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.977112 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.977526 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.977687 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:33 1698389553.981530 [tornettools] [INFO] Searching for files matching perfclient_circuit_build_time(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:33 1698389553.982004 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.982255 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.982507 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.982850 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.983097 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.983443 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.983775 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.984110 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.984442 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.984773 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.985001 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.985225 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.985453 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.985683 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.985908 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.986132 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.986356 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.986581 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.986802 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.987026 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/perfclient_circuit_build_time.exit.json
+2023-10-27 06:52:33 1698389553.987242 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:34 1698389554.005576 [tornettools] [INFO] Plotting exit circuit build times
+2023-10-27 06:52:34 1698389554.644346 [tornettools] [INFO] Loading exit tornet round trip time data
+2023-10-27 06:52:34 1698389554.644767 [tornettools] [INFO] Searching for files matching round_trip_time(\.exit)?\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:34 1698389554.645491 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.389715 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:35 1698389555.390668 [tornettools] [INFO] Searching for files matching round_trip_time(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:35 1698389555.391260 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.391447 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:35 1698389555.392077 [tornettools] [INFO] Searching for files matching round_trip_time(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:35 1698389555.392434 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.392729 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.393139 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.393297 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:35 1698389555.394585 [tornettools] [INFO] Searching for files matching round_trip_time(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:35 1698389555.394946 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.395228 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.395593 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.396074 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.396430 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.396686 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.396934 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.397186 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.397435 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.397683 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.397932 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.398177 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.398423 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.398673 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.398933 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.399191 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.399544 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.399898 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.400146 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.400390 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/round_trip_time.exit.json
+2023-10-27 06:52:35 1698389555.400537 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:35 1698389555.409000 [tornettools] [INFO] Plotting exit round trip times
+2023-10-27 06:52:36 1698389556.024309 [tornettools] [INFO] Loading exit tornet transfer time data
+2023-10-27 06:52:36 1698389556.024859 [tornettools] [INFO] Searching for files matching time_to_last_byte_recv(\.exit)?\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:36 1698389556.025951 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.873413 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:36 1698389556.874818 [tornettools] [INFO] Searching for files matching time_to_last_byte_recv(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:36 1698389556.875443 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.875728 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:36 1698389556.876897 [tornettools] [INFO] Searching for files matching time_to_last_byte_recv(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:36 1698389556.877260 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.877555 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.877978 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.878142 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:36 1698389556.880690 [tornettools] [INFO] Searching for files matching time_to_last_byte_recv(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:36 1698389556.881190 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.881462 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.881720 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.882093 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.882359 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.882612 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.882864 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.883127 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.883386 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.883640 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.883892 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.884140 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.884392 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.884644 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.884898 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.885146 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.885398 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.885645 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.885893 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.886138 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/time_to_last_byte_recv.exit.json
+2023-10-27 06:52:36 1698389556.886283 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:36 1698389556.898457 [tornettools] [INFO] Plotting transfer times
+2023-10-27 06:52:38 1698389558.808745 [tornettools] [INFO] Loading exit tornet goodput data
+2023-10-27 06:52:38 1698389558.809300 [tornettools] [INFO] Searching for files matching perfclient_goodput(\.exit)?\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:38 1698389558.810453 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.599661 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:39 1698389559.600547 [tornettools] [INFO] Searching for files matching perfclient_goodput(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:39 1698389559.601103 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.601279 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:39 1698389559.601833 [tornettools] [INFO] Searching for files matching perfclient_goodput(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:39 1698389559.602188 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.602477 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.602885 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.603040 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:39 1698389559.604397 [tornettools] [INFO] Searching for files matching perfclient_goodput(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:39 1698389559.604885 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.605170 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.605448 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.605852 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.606125 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.606397 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.606670 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.606938 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.607228 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.607604 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.607969 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.608333 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.608612 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.608889 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.609161 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.609428 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.609694 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.609975 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.610201 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.610407 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/perfclient_goodput.exit.json
+2023-10-27 06:52:39 1698389559.610527 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:39 1698389559.616236 [tornettools] [INFO] Plotting exit client goodput
+2023-10-27 06:52:40 1698389560.254011 [tornettools] [INFO] Loading exit tornet goodput data 5MiB
+2023-10-27 06:52:40 1698389560.254559 [tornettools] [INFO] Searching for files matching perfclient_goodput_5MiB(\.exit)?\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:40 1698389560.255319 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:40 1698389560.996984 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:40 1698389560.997679 [tornettools] [INFO] Searching for files matching perfclient_goodput_5MiB(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:40 1698389560.998220 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:40 1698389560.998406 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:40 1698389560.998776 [tornettools] [INFO] Searching for files matching perfclient_goodput_5MiB(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:40 1698389560.999141 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:40 1698389560.999436 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:40 1698389560.999849 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.000014 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:41 1698389561.000670 [tornettools] [INFO] Searching for files matching perfclient_goodput_5MiB(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:41 1698389561.001050 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.001337 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.001617 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.002023 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.002301 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.002579 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.002851 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.003157 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.003559 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.003926 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.004202 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.004476 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.004752 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.005026 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.005299 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.005569 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.005839 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.006111 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.006370 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.006582 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/perfclient_goodput_5MiB.exit.json
+2023-10-27 06:52:41 1698389561.006708 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:41 1698389561.008956 [tornettools] [INFO] Plotting exit client goodput [5 MiB]
+2023-10-27 06:52:41 1698389561.639180 [tornettools] [INFO] Loading exit tornet transfer error rate data
+2023-10-27 06:52:41 1698389561.639715 [tornettools] [INFO] Searching for files matching error_rate(\.exit)?\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:41 1698389561.640975 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.375781 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:42 1698389562.376525 [tornettools] [INFO] Searching for files matching error_rate(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:42 1698389562.377074 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.377246 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:42 1698389562.377688 [tornettools] [INFO] Searching for files matching error_rate(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:42 1698389562.378041 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.378327 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.378745 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.378901 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:42 1698389562.380303 [tornettools] [INFO] Searching for files matching error_rate(\.exit)?\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:42 1698389562.380831 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.381121 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.381398 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.381806 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.382085 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.382355 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.382636 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.382872 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.383108 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.383447 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.383795 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.384125 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.384349 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.384575 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.384797 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.385021 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.385244 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.385468 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.385688 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.385911 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/error_rate.exit.json
+2023-10-27 06:52:42 1698389562.386038 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:42 1698389562.391838 [tornettools] [INFO] Plotting exit transfer error rates
+2023-10-27 06:52:42 1698389562.900663 [tornettools] [INFO] Loading onionservice tornet circuit build time data
+2023-10-27 06:52:42 1698389562.901201 [tornettools] [INFO] Searching for files matching perfclient_circuit_build_time\.onionservice\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:42 1698389562.902407 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.654259 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:43 1698389563.654836 [tornettools] [INFO] Searching for files matching perfclient_circuit_build_time\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:43 1698389563.655427 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.655609 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:43 1698389563.655882 [tornettools] [INFO] Searching for files matching perfclient_circuit_build_time\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:43 1698389563.656230 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.656523 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.656931 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.657090 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:43 1698389563.657456 [tornettools] [INFO] Searching for files matching perfclient_circuit_build_time\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:43 1698389563.657839 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.658130 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.658406 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.658813 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.659110 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.659499 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.659881 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.660161 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.660439 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.660719 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.661003 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.661278 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.661549 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.661820 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.662091 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.662362 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.662632 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.662903 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.663185 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.663563 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/perfclient_circuit_build_time.onionservice.json
+2023-10-27 06:52:43 1698389563.663828 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:43 1698389563.665282 [tornettools] [INFO] Plotting onionservice circuit build times
+2023-10-27 06:52:43 1698389563.838739 [tornettools] [INFO] Loading onionservice tornet round trip time data
+2023-10-27 06:52:43 1698389563.839238 [tornettools] [INFO] Searching for files matching round_trip_time\.onionservice\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:43 1698389563.840070 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.611199 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:44 1698389564.611750 [tornettools] [INFO] Searching for files matching round_trip_time\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:44 1698389564.612283 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.612458 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:44 1698389564.612723 [tornettools] [INFO] Searching for files matching round_trip_time\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:44 1698389564.613063 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.613350 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.613763 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.613930 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:44 1698389564.614296 [tornettools] [INFO] Searching for files matching round_trip_time\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:44 1698389564.614678 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.614969 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.615389 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.615866 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.616146 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.616420 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.616699 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.616971 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.617247 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.617516 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.617789 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.618058 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.618328 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.618599 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.618877 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.619158 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.619520 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.619869 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.620141 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.620379 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/round_trip_time.onionservice.json
+2023-10-27 06:52:44 1698389564.620513 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:44 1698389564.621494 [tornettools] [INFO] Plotting onionservice round trip times
+2023-10-27 06:52:44 1698389564.790402 [tornettools] [INFO] Loading onionservice tornet transfer time data
+2023-10-27 06:52:44 1698389564.790900 [tornettools] [INFO] Searching for files matching time_to_last_byte_recv\.onionservice\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:44 1698389564.792023 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.526625 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:45 1698389565.527260 [tornettools] [INFO] Searching for files matching time_to_last_byte_recv\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:45 1698389565.527850 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.528062 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:45 1698389565.528394 [tornettools] [INFO] Searching for files matching time_to_last_byte_recv\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:45 1698389565.528782 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.529132 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.529594 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.529783 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:45 1698389565.530221 [tornettools] [INFO] Searching for files matching time_to_last_byte_recv\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:45 1698389565.530653 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.530992 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.531434 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.531964 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.532297 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.532630 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.532956 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.533271 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.533547 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.533817 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.534104 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.534360 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.534623 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.534877 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.535142 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.535480 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.535834 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.536225 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.536494 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.536753 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/time_to_last_byte_recv.onionservice.json
+2023-10-27 06:52:45 1698389565.536912 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:45 1698389565.537927 [tornettools] [INFO] Plotting transfer times
+2023-10-27 06:52:45 1698389565.990313 [tornettools] [INFO] Loading onionservice tornet goodput data
+2023-10-27 06:52:45 1698389565.990724 [tornettools] [INFO] Searching for files matching perfclient_goodput\.onionservice\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:45 1698389565.991901 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.746519 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:46 1698389566.747198 [tornettools] [INFO] Searching for files matching perfclient_goodput\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:46 1698389566.747745 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.747928 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:46 1698389566.748191 [tornettools] [INFO] Searching for files matching perfclient_goodput\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:46 1698389566.748525 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.748823 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.749235 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.749397 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:46 1698389566.749769 [tornettools] [INFO] Searching for files matching perfclient_goodput\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:46 1698389566.750172 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.750470 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.750751 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.751182 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.751592 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.751915 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.752198 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.752476 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.752752 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.753032 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.753314 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.753598 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.753875 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.754148 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.754426 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.754704 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.754979 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.755272 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.755682 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.756000 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/perfclient_goodput.onionservice.json
+2023-10-27 06:52:46 1698389566.756163 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:46 1698389566.757212 [tornettools] [INFO] Plotting onionservice client goodput
+2023-10-27 06:52:46 1698389566.930149 [tornettools] [INFO] Loading onionservice tornet goodput data 5MiB
+2023-10-27 06:52:46 1698389566.930574 [tornettools] [INFO] Searching for files matching perfclient_goodput_5MiB\.onionservice\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:46 1698389566.931210 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.768753 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:47 1698389567.769328 [tornettools] [INFO] Searching for files matching perfclient_goodput_5MiB\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:47 1698389567.769862 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.770043 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:47 1698389567.770306 [tornettools] [INFO] Searching for files matching perfclient_goodput_5MiB\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:47 1698389567.770646 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.770936 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.771361 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.771528 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:47 1698389567.771888 [tornettools] [INFO] Searching for files matching perfclient_goodput_5MiB\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:47 1698389567.772264 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.772560 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.772844 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.773256 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.773540 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.773816 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.774075 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.774322 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.774578 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.774833 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.775100 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.775485 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.775810 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.776059 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.776308 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.776558 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.776805 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.777061 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.777318 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.777564 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/perfclient_goodput_5MiB.onionservice.json
+2023-10-27 06:52:47 1698389567.777714 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:47 1698389567.778782 [tornettools] [INFO] Plotting onionservice client goodput [5 MiB]
+2023-10-27 06:52:47 1698389567.952024 [tornettools] [INFO] Loading onionservice tornet transfer error rate data
+2023-10-27 06:52:47 1698389567.952532 [tornettools] [INFO] Searching for files matching error_rate\.onionservice\.json in directory tree at /tmp/sim-results
+2023-10-27 06:52:47 1698389567.953782 [tornettools] [INFO] Found /tmp/sim-results/tornet-0.15-1/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.792436 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:48 1698389568.793058 [tornettools] [INFO] Searching for files matching error_rate\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57
+2023-10-27 06:52:48 1698389568.793667 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-26-T04-10-57/tornet-0.15-1/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.793858 [tornettools] [INFO] Found 1 total files
+2023-10-27 06:52:48 1698389568.794164 [tornettools] [INFO] Searching for files matching error_rate\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27
+2023-10-27 06:52:48 1698389568.794532 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-2/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.794852 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-3/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.795393 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-10-21-T04-19-27/tornet-0.15-1/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.795657 [tornettools] [INFO] Found 3 total files
+2023-10-27 06:52:48 1698389568.796111 [tornettools] [INFO] Searching for files matching error_rate\.onionservice\.json in directory tree at /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26
+2023-10-27 06:52:48 1698389568.796555 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-7/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.796854 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-2/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.797186 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-3/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.797671 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-15/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.797995 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-10/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.798316 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-16/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.798637 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-13/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.798919 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-6/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.799280 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-19/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.799603 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-11/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.799915 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-4/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.800178 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-1/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.800413 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-8/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.800674 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-14/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.800909 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-17/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.801157 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-5/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.801412 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-9/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.801664 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-18/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.801925 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-12/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.802157 [tornettools] [INFO] Found /__w/benchmark/benchmark/results/tor/2023-05-13-T10-54-26/tornet-0.15-20/tornet.plot.data/error_rate.onionservice.json
+2023-10-27 06:52:48 1698389568.802317 [tornettools] [INFO] Found 20 total files
+2023-10-27 06:52:48 1698389568.803360 [tornettools] [INFO] Plotting onionservice transfer error rates
+2023-10-27 06:52:48 1698389568.965514 [tornettools] [INFO] Done plotting! PDF files are saved to /tmp/sim-results/plots

@@ -572,3 +572,4 @@
 | [2023-12-29-T04-48-25](2023-12-29-T04-48-25) | Nightly benchmark | main | schedule | [fd79baa](https://github.com/shadow/shadow/commit/fd79baaddd9295282ffc39028c075a55f8d1f55e) |
 | [2023-12-30-T04-21-18](2023-12-30-T04-21-18) | Weekly benchmark | main | schedule | [fd79baa](https://github.com/shadow/shadow/commit/fd79baaddd9295282ffc39028c075a55f8d1f55e) |
 | [2024-01-01-T02-18-28](2024-01-01-T02-18-28) | v3.1.0 | v3.1.0 | workflow_dispatch | [172f88c](https://github.com/shadow/shadow/commit/172f88c7bd123e186ce085845b2cc2cb91e96380) |
+| [2024-01-02-T04-10-31](2024-01-02-T04-10-31) | Nightly benchmark | main | schedule | [8ad0cb6](https://github.com/shadow/shadow/commit/8ad0cb67a68aa82e62cc1389efddee44aa9e31ac) |

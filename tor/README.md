@@ -579,3 +579,4 @@
 | [2024-01-04-T03-31-42](2024-01-04-T03-31-42) | thread-per-host on PR #3273 | pull/3273/head | workflow_dispatch | [086ec99](https://github.com/shadow/shadow/commit/086ec99ab975b152955ae8994c5bb16d37d48d10) |
 | [2024-01-04-T08-05-06](2024-01-04-T08-05-06) | PR #3273 | pull/3273/head | workflow_dispatch | [086ec99](https://github.com/shadow/shadow/commit/086ec99ab975b152955ae8994c5bb16d37d48d10) |
 | [2024-01-04-T10-48-50](2024-01-04-T10-48-50) | Nightly benchmark | main | schedule | [348bc4c](https://github.com/shadow/shadow/commit/348bc4c23309042f27a281c9e703e9d2b1f144fc) |
+| [2024-01-05-T04-10-40](2024-01-05-T04-10-40) | Nightly benchmark | main | schedule | [348bc4c](https://github.com/shadow/shadow/commit/348bc4c23309042f27a281c9e703e9d2b1f144fc) |

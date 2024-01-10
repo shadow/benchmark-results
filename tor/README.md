@@ -583,3 +583,4 @@
 | [2024-01-06-T04-20-54](2024-01-06-T04-20-54) | Weekly benchmark | main | schedule | [348bc4c](https://github.com/shadow/shadow/commit/348bc4c23309042f27a281c9e703e9d2b1f144fc) |
 | [2024-01-07-T22-11-55](2024-01-07-T22-11-55) | PR #3277 | pull/3277/head | workflow_dispatch | [84f77e5](https://github.com/shadow/shadow/commit/84f77e590fc5b3e3e657191f46383b4a211ab18b) |
 | [2024-01-09-T04-10-49](2024-01-09-T04-10-49) | Nightly benchmark | main | schedule | [47bde40](https://github.com/shadow/shadow/commit/47bde400f9161f6ddb0be60ee2d1a38e1bdfbfa5) |
+| [2024-01-10-T04-10-46](2024-01-10-T04-10-46) | Nightly benchmark | main | schedule | [47bde40](https://github.com/shadow/shadow/commit/47bde400f9161f6ddb0be60ee2d1a38e1bdfbfa5) |

@@ -320,3 +320,4 @@
 | [2024-01-10-T16-02-19](2024-01-10-T16-02-19) | Test | 47bde400f9161f6ddb0be60ee2d1a38e1bdfbfa5 | workflow_dispatch | [47bde40](https://github.com/shadow/shadow/commit/47bde400f9161f6ddb0be60ee2d1a38e1bdfbfa5) |
 | [2024-01-11-T03-10-18](2024-01-11-T03-10-18) | Nightly benchmark | main | schedule | [47bde40](https://github.com/shadow/shadow/commit/47bde400f9161f6ddb0be60ee2d1a38e1bdfbfa5) |
 | [2024-01-12-T03-10-20](2024-01-12-T03-10-20) | Nightly benchmark | main | schedule | [47bde40](https://github.com/shadow/shadow/commit/47bde400f9161f6ddb0be60ee2d1a38e1bdfbfa5) |
+| [2024-01-13-T03-06-01](2024-01-13-T03-06-01) | Weekly benchmark | main | schedule | [c0f33f9](https://github.com/shadow/shadow/commit/c0f33f9d076a2b7bbb8ff7369d8534b98e7a3388) |

@@ -665,3 +665,4 @@
 | [2024-04-27-T04-19-43](2024-04-27-T04-19-43) | Weekly benchmark | main | schedule | [dff952e](https://github.com/shadow/shadow/commit/dff952e0c472b470c9f3c2ce7fa3de90ef314bc2) |
 | [2024-04-30-T04-11-32](2024-04-30-T04-11-32) | Nightly benchmark | main | schedule | [dff952e](https://github.com/shadow/shadow/commit/dff952e0c472b470c9f3c2ce7fa3de90ef314bc2) |
 | [2024-05-01-T04-10-32](2024-05-01-T04-10-32) | Nightly benchmark | main | schedule | [dff952e](https://github.com/shadow/shadow/commit/dff952e0c472b470c9f3c2ce7fa3de90ef314bc2) |
+| [2024-05-02-T04-10-49](2024-05-02-T04-10-49) | Nightly benchmark | main | schedule | [dff952e](https://github.com/shadow/shadow/commit/dff952e0c472b470c9f3c2ce7fa3de90ef314bc2) |

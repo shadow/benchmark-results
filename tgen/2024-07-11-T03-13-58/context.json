@@ -1,0 +1,23 @@
+{
+  "trigger": "schedule",
+  "workflow-name": "Nightly TGen Benchmark",
+  "shadow-ref": "main",
+  "shadow-label": "Nightly benchmark",
+  "comment": "Nightly benchmark of the main branch",
+  "runner-label": "cora",
+  "compare-to": "nightly, weekly, 2023-12-31-T23-03-00",
+  "repeat": 1,
+  "dry-run": false,
+  "runtime-args": "--parallelism 32",
+  "sim-to-run": "tgennet-1000",
+  "results-dir": "tgen",
+  "update-symlink": "nightly",
+  "container": "debian:bookworm-20231218-slim",
+  "tgen-ref": "816d68cd3d0ff7d0ec71e8bbbae24ecd6a636117",
+  "shadow-sha": "7ada9e06200b50545e573861eb475123951bdb31",
+  "benchmark-sha": "3a3356ca73a0c9ea040fc9a8cebe69f44b93181c",
+  "rust-version": "rustc 1.78.0 (9b00956e5 2024-04-29)",
+  "sim-id": "2024-07-11-T03-13-58",
+  "timestamp": "1720667638",
+  "compare-to-resolved": "2024-07-10-T03-12-32, 2024-07-06-T03-08-06, 2023-12-31-T23-03-00"
+}

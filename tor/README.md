@@ -770,3 +770,4 @@
 | [2024-09-20-T04-13-00](2024-09-20-T04-13-00) | Nightly benchmark | main | schedule | [86c1965](https://github.com/shadow/shadow/commit/86c19651c9471dff52a944787f74bc0aa754bd79) |
 | [2024-09-21-T04-25-02](2024-09-21-T04-25-02) | Weekly benchmark | main | schedule | [86c1965](https://github.com/shadow/shadow/commit/86c19651c9471dff52a944787f74bc0aa754bd79) |
 | [2024-09-24-T04-13-23](2024-09-24-T04-13-23) | Nightly benchmark | main | schedule | [86c1965](https://github.com/shadow/shadow/commit/86c19651c9471dff52a944787f74bc0aa754bd79) |
+| [2024-09-25-T04-13-49](2024-09-25-T04-13-49) | Nightly benchmark | main | schedule | [86c1965](https://github.com/shadow/shadow/commit/86c19651c9471dff52a944787f74bc0aa754bd79) |

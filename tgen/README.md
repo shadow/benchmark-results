@@ -582,3 +582,4 @@
 | [2025-01-09-T16-56-24](2025-01-09-T16-56-24) | PR #3480 | pull/3480/head | workflow_dispatch | [ace70a6](https://github.com/shadow/shadow/commit/ace70a685901d25236f562abfe5750d9cf6cb637) |
 | [2025-01-10-T03-19-06](2025-01-10-T03-19-06) | Nightly benchmark | main | schedule | [9dbbd31](https://github.com/shadow/shadow/commit/9dbbd31b3883775fcc2a4fdb12f88dbf730598bd) |
 | [2025-01-10-T23-41-49](2025-01-10-T23-41-49) | PR #3489 dynamic | 3d73420a0693bfb464aa303aeec8686dbb61fe5d | workflow_dispatch | [3d73420](https://github.com/shadow/shadow/commit/3d73420a0693bfb464aa303aeec8686dbb61fe5d) |
+| [2025-01-11-T00-05-58](2025-01-11-T00-05-58) | PR #3489 static | 10db06a72718decfe5661c3ea09131608c77103e | workflow_dispatch | [10db06a](https://github.com/shadow/shadow/commit/10db06a72718decfe5661c3ea09131608c77103e) |

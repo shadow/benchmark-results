@@ -853,3 +853,4 @@
 | [2025-01-14-T04-12-54](2025-01-14-T04-12-54) | Nightly benchmark | main | schedule | [916f80e](https://github.com/shadow/shadow/commit/916f80eef6b6c289b1cf7dd854de56a806b7400f) |
 | [2025-01-14-T18-06-33](2025-01-14-T18-06-33) | PR #3493 | pull/3493/head | workflow_dispatch | [eebf8a4](https://github.com/shadow/shadow/commit/eebf8a432586be80b2da42cddc4d6f46aaf284f4) |
 | [2025-01-15-T04-12-58](2025-01-15-T04-12-58) | Nightly benchmark | main | schedule | [916f80e](https://github.com/shadow/shadow/commit/916f80eef6b6c289b1cf7dd854de56a806b7400f) |
+| [2025-01-16-T04-12-48](2025-01-16-T04-12-48) | Nightly benchmark | main | schedule | [916f80e](https://github.com/shadow/shadow/commit/916f80eef6b6c289b1cf7dd854de56a806b7400f) |

@@ -878,3 +878,4 @@
 | [2025-02-13-T22-25-31](2025-02-13-T22-25-31) | PR #3492 no pktrc cnt | pull/3492/head | workflow_dispatch | [56ed3bc](https://github.com/shadow/shadow/commit/56ed3bc4f0a19b6aa578218a22326b5e247d9d7f) |
 | [2025-02-14-T04-13-23](2025-02-14-T04-13-23) | Nightly benchmark | main | schedule | [9db0366](https://github.com/shadow/shadow/commit/9db036687e822637b4bd4022a6f5dc4035641c65) |
 | [2025-02-15-T04-26-40](2025-02-15-T04-26-40) | Weekly benchmark | main | schedule | [9db0366](https://github.com/shadow/shadow/commit/9db036687e822637b4bd4022a6f5dc4035641c65) |
+| [2025-02-18-T04-13-17](2025-02-18-T04-13-17) | Nightly benchmark | main | schedule | [bb9f3fc](https://github.com/shadow/shadow/commit/bb9f3fc6525138e391dcddf42b4159296655d507) |

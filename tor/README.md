@@ -893,3 +893,4 @@
 | [2025-03-14-T04-13-37](2025-03-14-T04-13-37) | Nightly benchmark | main | schedule | [3ae4513](https://github.com/shadow/shadow/commit/3ae4513c6645c81d4ca03a8e9ed0779d989f35cd) |
 | [2025-03-15-T04-25-36](2025-03-15-T04-25-36) | Weekly benchmark | main | schedule | [3ae4513](https://github.com/shadow/shadow/commit/3ae4513c6645c81d4ca03a8e9ed0779d989f35cd) |
 | [2025-03-18-T04-14-04](2025-03-18-T04-14-04) | Nightly benchmark | main | schedule | [3ae4513](https://github.com/shadow/shadow/commit/3ae4513c6645c81d4ca03a8e9ed0779d989f35cd) |
+| [2025-03-18-T20-32-33](2025-03-18-T20-32-33) | PR #3520 | pull/3520/head | workflow_dispatch | [b8cd997](https://github.com/shadow/shadow/commit/b8cd997cf3cc256e114c59001d81b46f9ea4a518) |

@@ -988,3 +988,4 @@
 | [2025-07-29-T04-40-34](2025-07-29-T04-40-34) | Nightly benchmark | main | schedule | [ee514d4](https://github.com/shadow/shadow/commit/ee514d47cc38a21478769083a906451936f23052) |
 | [2025-07-30-T04-36-17](2025-07-30-T04-36-17) | Nightly benchmark | main | schedule | [ee514d4](https://github.com/shadow/shadow/commit/ee514d47cc38a21478769083a906451936f23052) |
 | [2025-07-31-T04-35-00](2025-07-31-T04-35-00) | Nightly benchmark | main | schedule | [ee514d4](https://github.com/shadow/shadow/commit/ee514d47cc38a21478769083a906451936f23052) |
+| [2025-08-01-T04-47-24](2025-08-01-T04-47-24) | Nightly benchmark | main | schedule | [ee514d4](https://github.com/shadow/shadow/commit/ee514d47cc38a21478769083a906451936f23052) |

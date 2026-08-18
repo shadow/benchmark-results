@@ -1250,3 +1250,4 @@
 | [2026-08-13-T05-27-18](2026-08-13-T05-27-18) | Nightly benchmark | main | schedule | [3cfce92](https://github.com/shadow/shadow/commit/3cfce925dde85eee31f53e7025d3fd067f86f069) |
 | [2026-08-14-T23-51-35](2026-08-14-T23-51-35) | PR 3780 rm memory manager | pull/3780/head | workflow_dispatch | [cb082fd](https://github.com/shadow/shadow/commit/cb082fda0ffc39b558d7c379133de93221f78618) |
 | [2026-08-15-T04-37-06](2026-08-15-T04-37-06) | Weekly benchmark | main | schedule | [1a7dd17](https://github.com/shadow/shadow/commit/1a7dd17d52c07f13958950ff3d0b31b38821a9da) |
+| [2026-08-18-T04-26-02](2026-08-18-T04-26-02) | Nightly benchmark | main | schedule | [58aa1a3](https://github.com/shadow/shadow/commit/58aa1a3e45182cac7f619cb9518233cd7390c4c7) |

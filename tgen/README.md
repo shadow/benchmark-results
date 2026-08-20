@@ -980,3 +980,4 @@
 | [2026-08-15-T14-51-19](2026-08-15-T14-51-19) | PR #3780 rm memory manager | pull/3780/head | workflow_dispatch | [cb082fd](https://github.com/shadow/shadow/commit/cb082fda0ffc39b558d7c379133de93221f78618) |
 | [2026-08-18-T03-37-51](2026-08-18-T03-37-51) | Nightly benchmark | main | schedule | [58aa1a3](https://github.com/shadow/shadow/commit/58aa1a3e45182cac7f619cb9518233cd7390c4c7) |
 | [2026-08-19-T03-39-28](2026-08-19-T03-39-28) | Nightly benchmark | main | schedule | [58aa1a3](https://github.com/shadow/shadow/commit/58aa1a3e45182cac7f619cb9518233cd7390c4c7) |
+| [2026-08-20-T03-39-45](2026-08-20-T03-39-45) | Nightly benchmark | main | schedule | [f1b2cac](https://github.com/shadow/shadow/commit/f1b2cacf2bb01e33d554a764dec02ccf2dcc5fdd) |

@@ -997,3 +997,4 @@
 | [2026-09-09-T07-44-16](2026-09-09-T07-44-16) | Nightly benchmark | main | schedule | [49180a3](https://github.com/shadow/shadow/commit/49180a30800ecc3127f4aec0730bd11a9441a383) |
 | [2026-09-10-T07-44-37](2026-09-10-T07-44-37) | Nightly benchmark | main | schedule | [49180a3](https://github.com/shadow/shadow/commit/49180a30800ecc3127f4aec0730bd11a9441a383) |
 | [2026-09-11-T07-39-19](2026-09-11-T07-39-19) | Nightly benchmark | main | schedule | [49180a3](https://github.com/shadow/shadow/commit/49180a30800ecc3127f4aec0730bd11a9441a383) |
+| [2026-09-12-T07-23-00](2026-09-12-T07-23-00) | Weekly benchmark | main | schedule | [49180a3](https://github.com/shadow/shadow/commit/49180a30800ecc3127f4aec0730bd11a9441a383) |

@@ -1298,3 +1298,4 @@
 | [2026-10-20-T09-00-52](2026-10-20-T09-00-52) | Nightly benchmark | main | schedule | [5cabc95](https://github.com/shadow/shadow/commit/5cabc950388a5311b0d267294cabc96325d45b76) |
 | [2026-10-21-T09-00-03](2026-10-21-T09-00-03) | Nightly benchmark | main | schedule | [5cabc95](https://github.com/shadow/shadow/commit/5cabc950388a5311b0d267294cabc96325d45b76) |
 | [2026-10-22-T09-02-34](2026-10-22-T09-02-34) | Nightly benchmark | main | schedule | [5cabc95](https://github.com/shadow/shadow/commit/5cabc950388a5311b0d267294cabc96325d45b76) |
+| [2026-10-23-T08-57-26](2026-10-23-T08-57-26) | Nightly benchmark | main | schedule | [ff9c674](https://github.com/shadow/shadow/commit/ff9c6743760189d0652be191ec6b4e4841755947) |

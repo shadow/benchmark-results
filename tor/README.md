@@ -1315,3 +1315,4 @@
 | [2026-11-12-T02-50-04](2026-11-12-T02-50-04) | PR 3849 | pull/3849/head | workflow_dispatch | [5666e89](https://github.com/shadow/shadow/commit/5666e89c7f31c0e2b06a3b910c5dad775c4c89e9) |
 | [2026-11-12-T11-59-48](2026-11-12-T11-59-48) | Nightly benchmark | main | schedule | [a856c16](https://github.com/shadow/shadow/commit/a856c169d60296703ec6e6019e0a89f451b9fcb4) |
 | [2026-11-13-T11-45-55](2026-11-13-T11-45-55) | Nightly benchmark | main | schedule | [de1215b](https://github.com/shadow/shadow/commit/de1215b14c42456f5d052d4e37f102434fd6f525) |
+| [2026-11-14-T11-18-59](2026-11-14-T11-18-59) | Weekly benchmark | main | schedule | [c53080f](https://github.com/shadow/shadow/commit/c53080fadd35d3220bb72f20c14505bbaa998624) |
